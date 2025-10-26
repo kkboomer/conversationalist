@@ -123,8 +123,8 @@ def _dot(
 def render_face_to_image(
     data: Dict[str, Any],
     output_path: str = "face.png",
-    width: int = 500,
-    height: int = 700,
+    width: int = 640,
+    height: int = 360,
     stroke: int = 2,
     color: str = "black",
     background: str = "white",
