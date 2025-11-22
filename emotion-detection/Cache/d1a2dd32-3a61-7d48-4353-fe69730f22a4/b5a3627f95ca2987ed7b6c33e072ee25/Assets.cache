@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    d314242f-33e5-4764-b3e3-9f97ca1fad0a: d1a2dd32-3a61-7d48-4353-fe69730f22a4/b5a3627f95ca2987ed7b6c33e072ee25/Data/CuteFont-Regular.ttf
+  Assets:
+    - !<Font/d314242f-33e5-4764-b3e3-9f97ca1fad0a>
+      PackagePath: ""
+  SourceHash: b5a3627f95ca2987ed7b6c33e072ee25
+  FileHash: 86e69277f130ff8679ba3fd99e79d3b7
+  NativePackageItems:
+    []

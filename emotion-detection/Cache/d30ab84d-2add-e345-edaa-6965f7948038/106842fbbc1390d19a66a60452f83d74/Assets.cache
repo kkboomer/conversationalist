@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    fd8edc2b-9a00-47e8-a805-0e52bcc40544: d30ab84d-2add-e345-edaa-6965f7948038/106842fbbc1390d19a66a60452f83d74/Data/BrunoAce-Regular.ttf
+  Assets:
+    - !<Font/fd8edc2b-9a00-47e8-a805-0e52bcc40544>
+      PackagePath: ""
+  SourceHash: 106842fbbc1390d19a66a60452f83d74
+  FileHash: f68130b1051cf0dcf513c1c68dd508b4
+  NativePackageItems:
+    []

@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    40223786-79b9-427f-b240-99296c2fc36b: c3234edc-a56a-b8ec-fc7f-e85facb4319f/6f6f9da907963e9f58c9c7c9873c0e46/Data/BebasNeue-Regular.ttf
+  Assets:
+    - !<Font/40223786-79b9-427f-b240-99296c2fc36b>
+      PackagePath: ""
+  SourceHash: 6f6f9da907963e9f58c9c7c9873c0e46
+  FileHash: abe20003b14aef35db36d31c68fccf6b
+  NativePackageItems:
+    []

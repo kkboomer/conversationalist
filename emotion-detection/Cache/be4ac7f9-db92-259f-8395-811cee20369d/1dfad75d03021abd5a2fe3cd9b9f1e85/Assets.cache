@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    fef153db-08a2-43a9-ac0d-de164c10c873: be4ac7f9-db92-259f-8395-811cee20369d/1dfad75d03021abd5a2fe3cd9b9f1e85/Data/Mogra-Regular.ttf
+  Assets:
+    - !<Font/fef153db-08a2-43a9-ac0d-de164c10c873>
+      PackagePath: ""
+  SourceHash: 1dfad75d03021abd5a2fe3cd9b9f1e85
+  FileHash: 72fb04838f1f027d5d85b4fdd1c0a42b
+  NativePackageItems:
+    []

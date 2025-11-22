@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    0bc9750f-cbdf-4d73-81c1-eac0753c0adf: dc750afb-2ef6-8c60-dd2c-3448f208a29a/73fa1eafb44517334d9f39197aea9f54/Data/DancingScript-VariableFont_wght.ttf
+  Assets:
+    - !<Font/0bc9750f-cbdf-4d73-81c1-eac0753c0adf>
+      PackagePath: ""
+  SourceHash: 73fa1eafb44517334d9f39197aea9f54
+  FileHash: 116a6c1270c32723986bd458bd272313
+  NativePackageItems:
+    []

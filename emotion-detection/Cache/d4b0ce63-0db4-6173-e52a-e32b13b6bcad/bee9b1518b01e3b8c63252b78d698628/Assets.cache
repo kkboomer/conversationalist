@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    23e836a6-420b-406f-8572-07f73e553b7c: d4b0ce63-0db4-6173-e52a-e32b13b6bcad/bee9b1518b01e3b8c63252b78d698628/Data/IndieFlower-Regular.ttf
+  Assets:
+    - !<Font/23e836a6-420b-406f-8572-07f73e553b7c>
+      PackagePath: ""
+  SourceHash: bee9b1518b01e3b8c63252b78d698628
+  FileHash: d06acc6df739418323295cbacc8e02c8
+  NativePackageItems:
+    []

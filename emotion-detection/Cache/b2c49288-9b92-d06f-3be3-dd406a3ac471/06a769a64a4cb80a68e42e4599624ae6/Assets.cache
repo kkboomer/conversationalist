@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    d7bc5784-6576-4b09-a7fe-dc40c5064543: b2c49288-9b92-d06f-3be3-dd406a3ac471/06a769a64a4cb80a68e42e4599624ae6/Data/Montserrat-VariableFont_wght.ttf
+  Assets:
+    - !<Font/d7bc5784-6576-4b09-a7fe-dc40c5064543>
+      PackagePath: ""
+  SourceHash: 06a769a64a4cb80a68e42e4599624ae6
+  FileHash: 6cc4ba8c3aa6f5d6f19c0e446bf25589
+  NativePackageItems:
+    []

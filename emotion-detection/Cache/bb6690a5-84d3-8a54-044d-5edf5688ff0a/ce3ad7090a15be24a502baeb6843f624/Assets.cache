@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    2ebaf6b9-5de8-4117-b957-366eae5c0708: bb6690a5-84d3-8a54-044d-5edf5688ff0a/ce3ad7090a15be24a502baeb6843f624/Data/Righteous-Regular.ttf
+  Assets:
+    - !<Font/2ebaf6b9-5de8-4117-b957-366eae5c0708>
+      PackagePath: ""
+  SourceHash: ce3ad7090a15be24a502baeb6843f624
+  FileHash: e75b2c1f41359a7265c3370fcd32282d
+  NativePackageItems:
+    []
