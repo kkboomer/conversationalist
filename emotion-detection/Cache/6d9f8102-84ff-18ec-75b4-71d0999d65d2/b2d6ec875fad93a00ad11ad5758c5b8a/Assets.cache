@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    3bf8f4ea-0f55-4bcf-af38-a5b69d220f96: 6d9f8102-84ff-18ec-75b4-71d0999d65d2/b2d6ec875fad93a00ad11ad5758c5b8a/Data/LilitaOne-Regular.ttf
+  Assets:
+    - !<Font/3bf8f4ea-0f55-4bcf-af38-a5b69d220f96>
+      PackagePath: ""
+  SourceHash: b2d6ec875fad93a00ad11ad5758c5b8a
+  FileHash: ba81fcd8908689d6d0e11be38c31d1b3
+  NativePackageItems:
+    []

@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    d5f99b6b-dd5c-45d2-a241-a6ffb7163020: 6e15a240-03fe-91e0-ee0d-56e2406a1c7f/23c9fd49c859aeb7eb0a6ee4ccca26aa/Data/Karla-VariableFont_wght.ttf
+  Assets:
+    - !<Font/d5f99b6b-dd5c-45d2-a241-a6ffb7163020>
+      PackagePath: ""
+  SourceHash: 23c9fd49c859aeb7eb0a6ee4ccca26aa
+  FileHash: eaa8468bfa4cbade6b27eea1c83c1e75
+  NativePackageItems:
+    []

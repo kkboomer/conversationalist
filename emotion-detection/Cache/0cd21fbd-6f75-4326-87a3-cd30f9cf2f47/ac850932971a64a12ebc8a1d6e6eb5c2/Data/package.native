@@ -1,0 +1,20 @@
+- !<NativePackageDescriptor/1ab67544-dc90-4449-b9c9-32c7102a3cb2>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 15
+    patch: 0
+    build: 25101318
+    type: Unset
+  Description: ""
+  SvgIcon: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 76
+  ExportUid: 1c6930ca-9edc-4fc6-afd7-588a5920ee84
+  ComponentUid: 2e46611d-e540-48e8-85db-c5f1cb778957
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  PackagePolicy: ShouldBeUnpacked
+  coreVersion: 330
+  clientVersion: 13.6000004

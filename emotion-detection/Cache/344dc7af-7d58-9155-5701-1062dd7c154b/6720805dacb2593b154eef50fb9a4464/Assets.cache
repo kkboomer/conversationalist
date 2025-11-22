@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    463ce3e4-9838-44ca-bc5c-6cd28470cd2b: 344dc7af-7d58-9155-5701-1062dd7c154b/6720805dacb2593b154eef50fb9a4464/Data/VinaSans-Regular.ttf
+  Assets:
+    - !<Font/463ce3e4-9838-44ca-bc5c-6cd28470cd2b>
+      PackagePath: ""
+  SourceHash: 6720805dacb2593b154eef50fb9a4464
+  FileHash: 0a398fd5d950dd23a75e366accde0415
+  NativePackageItems:
+    []

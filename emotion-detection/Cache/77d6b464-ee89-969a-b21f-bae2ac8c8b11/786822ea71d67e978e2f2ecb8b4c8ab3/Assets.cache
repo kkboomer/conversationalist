@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    b2fc0dca-0aaa-4ee9-b885-3b0a8569c488: 77d6b464-ee89-969a-b21f-bae2ac8c8b11/786822ea71d67e978e2f2ecb8b4c8ab3/Data/Teko-Regular.ttf
+  Assets:
+    - !<Font/b2fc0dca-0aaa-4ee9-b885-3b0a8569c488>
+      PackagePath: ""
+  SourceHash: 786822ea71d67e978e2f2ecb8b4c8ab3
+  FileHash: 5321e9395a3fd92dd6793bb5acbb16bc
+  NativePackageItems:
+    []

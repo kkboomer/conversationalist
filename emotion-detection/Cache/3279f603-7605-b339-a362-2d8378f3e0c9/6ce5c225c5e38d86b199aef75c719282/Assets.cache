@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    17f95622-1a34-43fa-8839-a409b7d3bef7: 3279f603-7605-b339-a362-2d8378f3e0c9/6ce5c225c5e38d86b199aef75c719282/Data/TitanOne-Regular.ttf
+  Assets:
+    - !<Font/17f95622-1a34-43fa-8839-a409b7d3bef7>
+      PackagePath: ""
+  SourceHash: 6ce5c225c5e38d86b199aef75c719282
+  FileHash: e4a7ad2f4b16286d3da1c7e2602f8000
+  NativePackageItems:
+    []

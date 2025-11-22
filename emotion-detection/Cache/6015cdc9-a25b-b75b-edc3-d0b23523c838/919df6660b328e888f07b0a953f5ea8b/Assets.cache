@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    28a26174-b359-4f57-bdf2-2a1bde395f69: 6015cdc9-a25b-b75b-edc3-d0b23523c838/919df6660b328e888f07b0a953f5ea8b/Data/SourceCodePro-VariableFont_wght.ttf
+  Assets:
+    - !<Font/28a26174-b359-4f57-bdf2-2a1bde395f69>
+      PackagePath: ""
+  SourceHash: 919df6660b328e888f07b0a953f5ea8b
+  FileHash: 4c8890926fbecfd742fc0a843fdbd8e5
+  NativePackageItems:
+    []

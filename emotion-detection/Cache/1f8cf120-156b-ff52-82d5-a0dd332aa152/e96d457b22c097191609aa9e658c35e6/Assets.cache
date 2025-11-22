@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    f3e77bc2-8b00-4baf-9617-b5481946beff: 1f8cf120-156b-ff52-82d5-a0dd332aa152/e96d457b22c097191609aa9e658c35e6/Data/Lobster-Regular.ttf
+  Assets:
+    - !<Font/f3e77bc2-8b00-4baf-9617-b5481946beff>
+      PackagePath: ""
+  SourceHash: e96d457b22c097191609aa9e658c35e6
+  FileHash: 9de4d99c3fad40e2a0f18763acc6cdab
+  NativePackageItems:
+    []

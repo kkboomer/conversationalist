@@ -1,0 +1,336 @@
+- !<ObjectPrefab/573bb9d1-e563-444c-867e-1e36d5d644fd>
+  PackagePath: ""
+  objects:
+    - !<own> 75c99d39-17d1-4395-8d7a-7a9abb6366ad
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/13a5b7a9-15d5-4fa1-86a9-fa9c6a768970>
+  PrefabRemaps: []
+  Name: Emojis Clipboard [COPY_FROM_INSPECTOR_PANEL]
+  Enabled: false
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children: []
+  Components:
+    - !<own> 2f09110b-3619-4562-a7cf-2f466d5248b4
+- !<SceneObject/19fa788c-e4aa-4df1-b470-d890b4f79bea>
+  PrefabRemaps: []
+  Name: Lens Studio Hints [DELETE_ME]
+  Enabled: true
+  Layers: 2
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: -22.500017, y: 0.000000, z: 0.000000}
+    Scale: {x: 6.500000, y: 6.500000, z: 6.500000}
+    HasSegmentScaleCompensation: false
+  Children: []
+  Components:
+    - !<own> bf0fc99d-bba2-46ef-a242-33e1401c7ccc
+- !<Image/206fe8d6-904c-4ce5-89c1-82c683858860>
+  PrefabRemaps: []
+  Name: Image
+  Enabled: true
+  RenderOrder: 8
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e966ffd2-f661-4682-b227-d3733d9421cf
+  FlipX: false
+  FlipY: false
+  Pivot: {x: 0.000000, y: 0.000000}
+- !<Head/20c48beb-9b20-43f6-a035-2e80e9e822dd>
+  PrefabRemaps: []
+  Name: Head
+  Enabled: true
+  AttachmentPointType: TriangleBarycentric
+  FaceIndex: 0
+  AttachedBarycentricVertex:
+    indices:
+      - 94
+      - 70
+      - 70
+    weights:
+      - 1.000000
+      - 0.000000
+      - 0.000000
+- !<SceneObject/259aba1f-22c6-483e-a69f-f8ff9189c4fd>
+  PrefabRemaps: []
+  Name: Face Text Controller [EDIT_ME]
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children: []
+  Components:
+    - !<own> 9b0ae6b9-606c-4d92-96e4-f4bfce13967a
+- !<Text/2f09110b-3619-4562-a7cf-2f466d5248b4>
+  PrefabRemaps: []
+  Name: Text
+  Enabled: true
+  RenderOrder: 10
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Text: "😀😃😄😁😆😅😂🤣🥲\n🥹😊😇🙂🙃😉😌😍🥰\n😘😗😙😚😋😛🤪🤨🧐🤓😎🥸🤩🥳🙂😏🙂‍😞😔😟😕🙁😣😖😫😩🥺😢😭😮‍💨😤😠😡🤬🤯😳🥵🥶😱😨😰😥😓🫣🤗🫡🤔🫢🤭🤫🤥😶😶‍🌫️😐😑😬🫨🫠🙄😦😧😮😲🥱😴🤤😪😵😵‍💫🫥🤐🥴🤢🤮🤧😷🤒🤕🤑🤠😈👿👺👻💀👽👾🤖🎃😺😸😹😻😼🙀😿😾\n[SCROLL UP TO SEE MORE]"
+  Editable: false
+  ShowEditingPreview: true
+  TouchHandler: !<reference> 00000000-0000-0000-0000-000000000000
+  SizeToFit: false
+  FontSize: 60
+  Font: !<reference> 00000000-0000-0000-0000-000000000000
+  LayoutRect:
+    left: -7.500000
+    bottom: -2.250000
+    right: 7.500000
+    top: 2.250000
+  OverflowVertical: Overflow
+  OverflowHorizontal: Wrap
+  Fill: !<TextFill/00000000-0000-0000-0000-000000000000>
+    Mode: Solid
+    Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    Texture: !<reference> 00000000-0000-0000-0000-000000000000
+  Outline: !<OutlineSettings/00000000-0000-0000-0000-000000000000>
+    Enabled: false
+    Fill: !<TextFill/00000000-0000-0000-0000-000000000000>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    Size: 0.250000
+  Dropshadow: !<DropshadowSettings/00000000-0000-0000-0000-000000000000>
+    Enabled: false
+    Fill: !<TextFill/00000000-0000-0000-0000-000000000000>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    OffsetX: 0.250000
+    OffsetY: 0.250000
+  Background: !<BackgroundSettings/00000000-0000-0000-0000-000000000000>
+    Enabled: false
+    Fill: !<TextFill/00000000-0000-0000-0000-000000000000>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    Margins:
+      left: 0.000000
+      bottom: 0.000000
+      right: 0.000000
+      top: 0.000000
+    CornerRadius: 0.000000
+  AdvancedLayout: !<TextAdvancedLayout/00000000-0000-0000-0000-000000000000>
+    ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+    LetterSpacing: 0.000000
+    LineSpacing: 1.000000
+    CapitalizationOverride: None
+  DepthTest: false
+- !<SceneObject/75c99d39-17d1-4395-8d7a-7a9abb6366ad>
+  PrefabRemaps: []
+  Name: Face Text Controller
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: -40.000000}
+    Rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7d2c5d62-0579-4108-b934-40674fae5723
+    - !<own> 259aba1f-22c6-483e-a69f-f8ff9189c4fd
+    - !<own> 13a5b7a9-15d5-4fa1-86a9-fa9c6a768970
+    - !<own> 19fa788c-e4aa-4df1-b470-d890b4f79bea
+  Components: []
+- !<SceneObject/7d2c5d62-0579-4108-b934-40674fae5723>
+  PrefabRemaps: []
+  Name: Head Bindings
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 40.000000}
+    Rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> c95354c3-9ac2-48e9-8afa-1a4d4cc9fad2
+  Components: []
+- !<ScriptComponent/9b0ae6b9-606c-4d92-96e4-f4bfce13967a>
+  PrefabRemaps: []
+  Name: FaceTextController
+  Enabled: true
+  ScriptAsset: !<reference> b37d0fe5-9926-463a-9632-484c28e89175
+  ScriptInputsDefault:
+    advanced: true
+  ScriptTypesDefault: {}
+  ScriptInputs:
+    "":
+      faceTexts:
+        - text: 😱😱😱
+          faceIndex: 1
+          font: !<string> 0
+          customFontIfAny: !<reference.Font> 00000000-0000-0000-0000-000000000000
+          textBackground: false
+          textColor: !<Vec4> {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+          backgroundColor: !<Vec4> {x: 0.556832, y: 0.947829, z: 1.000000, w: 0.900008}
+          shadowColor: !<Vec4> {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+          shadowOffset: !<Vec2> {x: 0.000000, y: 0.000000}
+          textOutlineColor: !<Vec4> {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+          textOutlineSize: !<float> 0.000000
+          layoutRect: !<Vec4> {x: -7.500000, y: 7.500000, z: -2.250000, w: 2.250000}
+          margin: !<Vec4> {x: 0.100000, y: 0.100000, z: 2.000000, w: 2.000000}
+          cornerRadius: 0.300000
+          position: !<Vec3> {x: -3.500000, y: 7.400000, z: 0.000000}
+          rotation: -5
+          scale: 2.500000
+        - text: OMG!!!!
+          faceIndex: 0
+          font: !<string> 0
+          customFontIfAny: !<reference.Font> 00000000-0000-0000-0000-000000000000
+          textBackground: true
+          textColor: !<Vec4> {x: 0.219684, y: 0.125322, z: 1.000000, w: 1.000000}
+          backgroundColor: !<Vec4> {x: 0.549203, y: 0.983185, z: 0.407385, w: 0.851270}
+          shadowColor: !<Vec4> {x: 0.144289, y: 0.922103, z: 1.000000, w: 1.000000}
+          shadowOffset: !<Vec2> {x: 0.000000, y: 0.000000}
+          textOutlineColor: !<Vec4> {x: 0.696696, y: 0.091936, z: 1.000000, w: 1.000000}
+          textOutlineSize: 0.150000
+          layoutRect: !<Vec4> {x: -7.500000, y: 7.500000, z: -2.250000, w: 2.250000}
+          margin: !<Vec4> {x: 0.300000, y: 0.300000, z: 0.100000, w: 0.100000}
+          cornerRadius: 0.200000
+          position: !<Vec3> {x: -3.500000, y: 6.500000, z: 0.000000}
+          rotation: 15
+          scale: 1.700000
+      advanced: false
+      positionReference: !<reference.SceneObject> c95354c3-9ac2-48e9-8afa-1a4d4cc9fad2
+      fonts: !<reference.Font[]>
+        - !<reference> d5f99b6b-dd5c-45d2-a241-a6ffb7163020
+        - !<reference> e3dd9762-7b13-4086-8d83-7ccad229470e
+        - !<reference> 40223786-79b9-427f-b240-99296c2fc36b
+        - !<reference> ce2fbb66-67d6-4d32-89a7-b4c6b5db6f3a
+        - !<reference> 463ce3e4-9838-44ca-bc5c-6cd28470cd2b
+        - !<reference> 0bc9750f-cbdf-4d73-81c1-eac0753c0adf
+        - !<reference> a044cb83-fba5-44c1-b7eb-e2248ede81e7
+        - !<reference> fef153db-08a2-43a9-ac0d-de164c10c873
+        - !<reference> 286749b7-bce5-4a48-ba29-d7ddac383f47
+        - !<reference> acfebb17-9c55-4fa8-ae25-7aec7cb17225
+        - !<reference> 5cee1d86-b035-4356-96f9-eabf296b961c
+        - !<reference> f91b5391-d54a-4d2e-b4b1-6c965cbe4a09
+        - !<reference> 23e836a6-420b-406f-8572-07f73e553b7c
+        - !<reference> 2c57fb0e-8dd2-4bf6-b438-abbde84a2a7e
+        - !<reference> e7245744-bbae-4d4d-9369-ef5b937f88d9
+        - !<reference> 3bf8f4ea-0f55-4bcf-af38-a5b69d220f96
+        - !<reference> 85ac226e-f86b-4efb-94c8-0e957f16e800
+        - !<reference> 17f95622-1a34-43fa-8839-a409b7d3bef7
+        - !<reference> d314242f-33e5-4764-b3e3-9f97ca1fad0a
+        - !<reference> d3e694d2-9835-43cf-a7b0-6fe072620b7b
+  ScriptTypes:
+    "": {}
+- !<LookAtComponent/9d647cef-8993-473c-bd46-58fbeb21e03f>
+  PrefabRemaps: []
+  Name: Look At
+  Enabled: true
+  LookAtMode: LookAtDirection
+  AimVectors: ZAimYUp
+  WorldUpVector: ObjectY
+  Target: !<reference> 00000000-0000-0000-0000-000000000000
+  OffsetRotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+- !<SceneObject/b1fc9f12-b9e2-4c3d-a5b9-2e139531bcae>
+  PrefabRemaps: []
+  Name: Face Center Reference
+  Enabled: false
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.000000, z: 1.289600}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 5.000000, y: 5.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children: []
+  Components:
+    - !<own> 206fe8d6-904c-4ce5-89c1-82c683858860
+    - !<own> 9d647cef-8993-473c-bd46-58fbeb21e03f
+- !<Text/bf0fc99d-bba2-46ef-a242-33e1401c7ccc>
+  PrefabRemaps: []
+  Name: Text
+  Enabled: true
+  RenderOrder: 11
+  StretchMode: Stretch
+  VerticalAlignment: Top
+  HorizontalAlignment: Left
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Text: "# Face Text Controller:\nIn the Inspector Panel, add a new face text. Type the content in the text box, then configure its style, format and transform in the settings below. For best visual effects, it is recommended that your limit your text to 30 characters.\n\n** Add main camera as the Target in the Face Center Reference"
+  Editable: false
+  ShowEditingPreview: true
+  TouchHandler: !<reference> 00000000-0000-0000-0000-000000000000
+  SizeToFit: false
+  FontSize: 48
+  Font: !<reference> 00000000-0000-0000-0000-000000000000
+  LayoutRect:
+    left: -15.000000
+    bottom: -26.000000
+    right: 15.000000
+    top: 17.000000
+  OverflowVertical: Overflow
+  OverflowHorizontal: Wrap
+  Fill: !<TextFill/00000000-0000-0000-0000-000000000000>
+    Mode: Solid
+    Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+    Texture: !<reference> 00000000-0000-0000-0000-000000000000
+  Outline: !<OutlineSettings/00000000-0000-0000-0000-000000000000>
+    Enabled: false
+    Fill: !<TextFill/00000000-0000-0000-0000-000000000000>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    Size: 0.250000
+  Dropshadow: !<DropshadowSettings/00000000-0000-0000-0000-000000000000>
+    Enabled: false
+    Fill: !<TextFill/00000000-0000-0000-0000-000000000000>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    OffsetX: 0.250000
+    OffsetY: 0.250000
+  Background: !<BackgroundSettings/00000000-0000-0000-0000-000000000000>
+    Enabled: true
+    Fill: !<TextFill/00000000-0000-0000-0000-000000000000>
+      Mode: Solid
+      Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    Margins:
+      left: 1.000000
+      bottom: 1.000000
+      right: 1.000000
+      top: 1.000000
+    CornerRadius: 1.000000
+  AdvancedLayout: !<TextAdvancedLayout/00000000-0000-0000-0000-000000000000>
+    ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+    LetterSpacing: 0.000000
+    LineSpacing: 1.000000
+    CapitalizationOverride: None
+  DepthTest: false
+- !<SceneObject/c95354c3-9ac2-48e9-8afa-1a4d4cc9fad2>
+  PrefabRemaps: []
+  Name: Face Center Binding
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b1fc9f12-b9e2-4c3d-a5b9-2e139531bcae
+  Components:
+    - !<own> 20c48beb-9b20-43f6-a035-2e80e9e822dd

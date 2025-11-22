@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    5cee1d86-b035-4356-96f9-eabf296b961c: 44bc5fe1-55ee-bb9c-575a-2e90013739f7/ab86883c26fbc91bc7ae9d51fec0a3e4/Data/ShadowsIntoLight-Regular.ttf
+  Assets:
+    - !<Font/5cee1d86-b035-4356-96f9-eabf296b961c>
+      PackagePath: ""
+  SourceHash: ab86883c26fbc91bc7ae9d51fec0a3e4
+  FileHash: 4c771508f5d8cb52eebb0146ee31fbd4
+  NativePackageItems:
+    []

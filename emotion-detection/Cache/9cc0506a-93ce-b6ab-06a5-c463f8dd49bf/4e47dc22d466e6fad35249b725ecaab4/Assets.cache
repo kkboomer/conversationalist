@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    bddeed6d-4f6d-4fd2-8fcd-c1bc1cef8536: 9cc0506a-93ce-b6ab-06a5-c463f8dd49bf/4e47dc22d466e6fad35249b725ecaab4/Data/Ysabeau-Italic-VariableFont_wght.ttf
+  Assets:
+    - !<Font/bddeed6d-4f6d-4fd2-8fcd-c1bc1cef8536>
+      PackagePath: ""
+  SourceHash: 4e47dc22d466e6fad35249b725ecaab4
+  FileHash: 2cc21c5ce4f83d48fd65ce08f772e639
+  NativePackageItems:
+    []

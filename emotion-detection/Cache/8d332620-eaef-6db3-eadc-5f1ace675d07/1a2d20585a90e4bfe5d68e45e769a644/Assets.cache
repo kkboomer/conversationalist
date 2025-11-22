@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    aa3cb95d-2199-4c1a-b0ad-d48063d0741e: 8d332620-eaef-6db3-eadc-5f1ace675d07/1a2d20585a90e4bfe5d68e45e769a644/Data/SourceSerifPro-ExtraLight.ttf
+  Assets:
+    - !<Font/aa3cb95d-2199-4c1a-b0ad-d48063d0741e>
+      PackagePath: ""
+  SourceHash: 1a2d20585a90e4bfe5d68e45e769a644
+  FileHash: dfbbfe32526c148dd6d13460ecddde67
+  NativePackageItems:
+    []

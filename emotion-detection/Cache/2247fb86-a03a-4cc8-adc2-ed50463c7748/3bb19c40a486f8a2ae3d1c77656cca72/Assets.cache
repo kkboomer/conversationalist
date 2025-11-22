@@ -1,0 +1,889 @@
+- !<AssetCache>
+  AssetFiles:
+    {}
+  Assets:
+    []
+  SourceHash: 3bb19c40a486f8a2ae3d1c77656cca72
+  FileHash: 9008f6ad954b500a1c3f61f988f80626
+  NativePackageItems:
+    - !<own> 4e805e25-8b20-2fb4-6ecc-d94158e69a55
+    - !<own> 6dc12ebd-82f3-517a-a663-8e917b204edf
+    - !<own> ea7e776f-7172-9fb6-a745-d02eea8270e1
+    - !<own> 1a14251c-6ae7-3d45-362b-c649bdfea235
+    - !<own> 23153106-521d-1493-2784-17e9669b5794
+    - !<own> 9cc0506a-93ce-b6ab-06a5-c463f8dd49bf
+    - !<own> b2c49288-9b92-d06f-3be3-dd406a3ac471
+    - !<own> 077e3a66-d9a0-a067-40d6-7ca928a92f66
+    - !<own> 39c53f59-19fb-7b5d-f30f-bb8bd2779dc8
+    - !<own> 2590d4d9-cc6d-0d1d-4e48-ff8891398de1
+    - !<own> bb6690a5-84d3-8a54-044d-5edf5688ff0a
+    - !<own> 51465809-5c4b-86db-5cdc-ab403684b7b0
+    - !<own> d30ab84d-2add-e345-edaa-6965f7948038
+    - !<own> 205ccc4c-281f-784b-36a2-32c93631a0cd
+    - !<own> 8d332620-eaef-6db3-eadc-5f1ace675d07
+    - !<own> 9e494c45-9266-0c2e-b3cd-e1be48295100
+    - !<own> ad8aceb5-b1c4-e0ae-62d2-4a22d8f48cfc
+    - !<own> 9ea0a965-998f-0962-7f17-4efca649591d
+    - !<own> 2cbcccd0-56ff-dcae-bb2e-2a71ee828495
+    - !<own> c065f276-8c4b-47c1-dc80-dc47be79f566
+    - !<own> 892f8fbe-b777-edb3-67c1-dab673e1a857
+    - !<own> 1f8cf120-156b-ff52-82d5-a0dd332aa152
+    - !<own> 77d6b464-ee89-969a-b21f-bae2ac8c8b11
+    - !<own> daf275f6-d100-325e-dc95-6ed6a4704291
+    - !<own> 6015cdc9-a25b-b75b-edc3-d0b23523c838
+    - !<own> 1f55e712-a3ce-9554-6ac8-ff0964574445
+- !<AssetImportMetadata/077e3a66-d9a0-a067-40d6-7ca928a92f66>
+  ImportedAssetIds:
+    Font: !<reference> 0e9b9ee4-ca99-4fa6-8245-754b9a45ff3a
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 0e9b9ee4-ca99-4fa6-8245-754b9a45ff3a
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/0c520c68-506e-458f-4740-19ac3fb3e76a>
+  PrefabRemaps:
+    []
+  Name: Face Center Binding
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> e25650d9-4a57-4969-4c4f-54cd068846a4
+  Components:
+    - !<own> 8d182588-4017-4f6d-4cf3-9ab75814c06e
+- !<AssetImportMetadata/1a14251c-6ae7-3d45-362b-c649bdfea235>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 4d35ef62-9790-4123-b0fa-f0077ee8cb97
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 4d35ef62-9790-4123-b0fa-f0077ee8cb97
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 98473f3f-9199-4bff-ab55-4ffd6b2d9f75
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<Image/1d0f1d73-8518-4af9-4f72-252ad4135cc5>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 8
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d12fc3e4-85a1-474a-84f9-c1a0602236ba
+  FlipX: false
+  FlipY: false
+  RotationAngle: 0
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/1f55e712-a3ce-9554-6ac8-ff0964574445>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> a81e084d-9e47-4894-b6c5-6e76c647233d
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> a81e084d-9e47-4894-b6c5-6e76c647233d
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> be587980-5f1b-4188-836b-5865f902850a
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/1f8cf120-156b-ff52-82d5-a0dd332aa152>
+  ImportedAssetIds:
+    Font: !<reference> f3e77bc2-8b00-4baf-9617-b5481946beff
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> f3e77bc2-8b00-4baf-9617-b5481946beff
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/205ccc4c-281f-784b-36a2-32c93631a0cd>
+  ImportedAssetIds:
+    Font: !<reference> 144a4443-02a9-4024-82b2-ba6e7964900c
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 144a4443-02a9-4024-82b2-ba6e7964900c
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/23153106-521d-1493-2784-17e9669b5794>
+  ImportedAssetIds:
+    NativePackageDescriptor: !<reference> 9745ed07-fa1e-4d71-ad7d-c70e7354e46c
+  ImporterName: NativePackageDescriptorImporter
+  PrimaryAsset: !<reference> 9745ed07-fa1e-4d71-ad7d-c70e7354e46c
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/2590d4d9-cc6d-0d1d-4e48-ff8891398de1>
+  ImportedAssetIds:
+    Font: !<reference> 174485e0-f955-4c84-9fdd-611f652cfa22
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 174485e0-f955-4c84-9fdd-611f652cfa22
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/2cbcccd0-56ff-dcae-bb2e-2a71ee828495>
+  ImportedAssetIds:
+    Font: !<reference> da17c532-6e85-45ab-a1ca-a5f079defa7d
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> da17c532-6e85-45ab-a1ca-a5f079defa7d
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/39c53f59-19fb-7b5d-f30f-bb8bd2779dc8>
+  ImportedAssetIds:
+    Font: !<reference> 44d1e911-2487-44ab-9fc7-1ebcf1a96d07
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 44d1e911-2487-44ab-9fc7-1ebcf1a96d07
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/47c9b79e-ebad-4fd7-7ed1-fe6a0e7a4008>
+  PrefabRemaps:
+    []
+  Name: "Lens Studio Hints [DELETE_ME]"
+  Enabled: true
+  Layers: 2
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: -22.500017, y: 0.000000, z: 0.000000}
+    Scale: {x: 6.500000, y: 6.500000, z: 6.500000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ab87eea8-3d85-4db4-44f8-c8809ac24f47
+- !<AssetImportMetadata/4e805e25-8b20-2fb4-6ecc-d94158e69a55>
+  ImportedAssetIds:
+    Texture: !<reference> e308a723-bc19-4388-9256-a06db73614c1
+  ImporterName: FileTextureImporter
+  PrimaryAsset: !<reference> e308a723-bc19-4388-9256-a06db73614c1
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/51465809-5c4b-86db-5cdc-ab403684b7b0>
+  ImportedAssetIds:
+    Font: !<reference> a97e668d-4c03-473d-8f40-cfa5ef2783d5
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> a97e668d-4c03-473d-8f40-cfa5ef2783d5
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/6015cdc9-a25b-b75b-edc3-d0b23523c838>
+  ImportedAssetIds:
+    Font: !<reference> 28a26174-b359-4f57-bdf2-2a1bde395f69
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 28a26174-b359-4f57-bdf2-2a1bde395f69
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/67dc47c5-3d18-4b2c-5a3e-daecb31f0339>
+  PrefabRemaps:
+    []
+  Name: Head Bindings
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 40.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0c520c68-506e-458f-4740-19ac3fb3e76a
+  Components:
+    []
+- !<ScriptComponent/6c18e3a4-c364-4294-620b-e0af50851729>
+  PrefabRemaps:
+    []
+  Name: FaceTextController
+  Enabled: true
+  ScriptAsset: !<reference> 4d35ef62-9790-4123-b0fa-f0077ee8cb97
+  ScriptInputsDefault:
+    advanced: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      faceTexts:
+        - text: 😱😱😱
+          faceIndex: 1
+          font: !<string> 0
+          customFontIfAny: !<reference.Font> 00000000-0000-0000-0000-000000000000
+          textBackground: false
+          textColor: !<Vec4> {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+          backgroundColor: !<Vec4> {x: 0.556832, y: 0.947829, z: 1.000000, w: 0.900008}
+          shadowColor: !<Vec4> {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+          shadowOffset: !<Vec2> {x: 0.000000, y: 0.000000}
+          textOutlineColor: !<Vec4> {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+          textOutlineSize: !<float> 0.000000
+          layoutRect: !<Vec4> {x: -7.500000, y: 7.500000, z: -2.250000, w: 2.250000}
+          margin: !<Vec4> {x: 0.100000, y: 0.100000, z: 2.000000, w: 2.000000}
+          cornerRadius: 0.300000
+          position: !<Vec3> {x: -3.500000, y: 7.400000, z: 0.000000}
+          rotation: -5
+          scale: 2.500000
+        - text: OMG!!!!
+          faceIndex: 0
+          font: !<string> 0
+          customFontIfAny: !<reference.Font> 00000000-0000-0000-0000-000000000000
+          textBackground: true
+          textColor: !<Vec4> {x: 0.219684, y: 0.125322, z: 1.000000, w: 1.000000}
+          backgroundColor: !<Vec4> {x: 0.549203, y: 0.983185, z: 0.407385, w: 0.851270}
+          shadowColor: !<Vec4> {x: 0.144289, y: 0.922103, z: 1.000000, w: 1.000000}
+          shadowOffset: !<Vec2> {x: 0.000000, y: 0.000000}
+          textOutlineColor: !<Vec4> {x: 0.696696, y: 0.091936, z: 1.000000, w: 1.000000}
+          textOutlineSize: 0.150000
+          layoutRect: !<Vec4> {x: -7.500000, y: 7.500000, z: -2.250000, w: 2.250000}
+          margin: !<Vec4> {x: 0.300000, y: 0.300000, z: 0.100000, w: 0.100000}
+          cornerRadius: 0.200000
+          position: !<Vec3> {x: -3.500000, y: 6.500000, z: 0.000000}
+          rotation: 15
+          scale: 1.700000
+      advanced: false
+      positionReference: !<reference.SceneObject> 0c520c68-506e-458f-4740-19ac3fb3e76a
+      fonts: !<reference.Font[]>
+        - !<reference> 4ec2a3a0-31e6-45dd-adae-3152d08694a4
+        - !<reference> d7bc5784-6576-4b09-a7fe-dc40c5064543
+        - !<reference> 144a4443-02a9-4024-82b2-ba6e7964900c
+        - !<reference> 28a26174-b359-4f57-bdf2-2a1bde395f69
+        - !<reference> 3cb58a6f-7d10-4b1d-92a1-eab3901a75b7
+        - !<reference> fd70fc92-84b0-4bcd-a431-49b4d76ce7fd
+        - !<reference> f3e77bc2-8b00-4baf-9617-b5481946beff
+        - !<reference> e009476d-6615-4c2c-9042-74d0802827f7
+        - !<reference> b2fc0dca-0aaa-4ee9-b885-3b0a8569c488
+        - !<reference> 2ebaf6b9-5de8-4117-b957-366eae5c0708
+        - !<reference> 174485e0-f955-4c84-9fdd-611f652cfa22
+        - !<reference> cce32cee-6934-4588-a794-3d745b8f94c1
+        - !<reference> 0e9b9ee4-ca99-4fa6-8245-754b9a45ff3a
+        - !<reference> 44d1e911-2487-44ab-9fc7-1ebcf1a96d07
+        - !<reference> bddeed6d-4f6d-4fd2-8fcd-c1bc1cef8536
+        - !<reference> a97e668d-4c03-473d-8f40-cfa5ef2783d5
+        - !<reference> fd8edc2b-9a00-47e8-a805-0e52bcc40544
+        - !<reference> da17c532-6e85-45ab-a1ca-a5f079defa7d
+        - !<reference> a213d7a8-882b-464a-a742-42dd6a059d45
+        - !<reference> aa3cb95d-2199-4c1a-b0ad-d48063d0741e
+  ScriptTypes:
+    "":
+      {}
+- !<AssetImportMetadata/6dc12ebd-82f3-517a-a663-8e917b204edf>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 6eb3d64c-a6aa-444b-bd36-9a5fedd668c5
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 6eb3d64c-a6aa-444b-bd36-9a5fedd668c5
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/77d6b464-ee89-969a-b21f-bae2ac8c8b11>
+  ImportedAssetIds:
+    Font: !<reference> b2fc0dca-0aaa-4ee9-b885-3b0a8569c488
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> b2fc0dca-0aaa-4ee9-b885-3b0a8569c488
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/7f09b7dd-b334-4bc4-7cb7-aff454675946>
+  PrefabRemaps:
+    []
+  Name: "Face Text Controller [EDIT_ME]"
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6c18e3a4-c364-4294-620b-e0af50851729
+- !<SceneObject/852ac6fd-d8fd-4bb0-79b1-d312c3738cab>
+  PrefabRemaps:
+    []
+  Name: "Emojis Clipboard [COPY_FROM_INSPECTOR_PANEL]"
+  Enabled: false
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ac04b2b4-194a-4c80-50a3-7a5753683ccd
+- !<AssetImportMetadata/892f8fbe-b777-edb3-67c1-dab673e1a857>
+  ImportedAssetIds:
+    Font: !<reference> e009476d-6615-4c2c-9042-74d0802827f7
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> e009476d-6615-4c2c-9042-74d0802827f7
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<Head/8d182588-4017-4f6d-4cf3-9ab75814c06e>
+  PrefabRemaps:
+    []
+  Name: Head
+  Enabled: true
+  AttachmentPointType: TriangleBarycentric
+  FaceIndex: 0
+  AttachedBarycentricVertex:
+    indices:
+      - 94
+      - 70
+      - 70
+    weights:
+      - 1.000000
+      - 0.000000
+      - 0.000000
+  TrackingScope: !<reference> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/8d332620-eaef-6db3-eadc-5f1ace675d07>
+  ImportedAssetIds:
+    Font: !<reference> aa3cb95d-2199-4c1a-b0ad-d48063d0741e
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> aa3cb95d-2199-4c1a-b0ad-d48063d0741e
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/98473f3f-9199-4bff-ab55-4ffd6b2d9f75>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: ce741989-990e-3ecb-874b-58475020cfdc
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    advanced: false
+    faceTexts: false
+    fonts: false
+    positionReference: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - faceTexts:
+        []
+      advanced: false
+      positionReference: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      fonts: !<reference.Font[]>
+        []
+  ScriptTypes:
+    -
+      {}
+- !<AssetImportMetadata/9cc0506a-93ce-b6ab-06a5-c463f8dd49bf>
+  ImportedAssetIds:
+    Font: !<reference> bddeed6d-4f6d-4fd2-8fcd-c1bc1cef8536
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> bddeed6d-4f6d-4fd2-8fcd-c1bc1cef8536
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/9e494c45-9266-0c2e-b3cd-e1be48295100>
+  ImportedAssetIds:
+    Font: !<reference> cce32cee-6934-4588-a794-3d745b8f94c1
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> cce32cee-6934-4588-a794-3d745b8f94c1
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/9ea0a965-998f-0962-7f17-4efca649591d>
+  ImportedAssetIds:
+    Font: !<reference> 4ec2a3a0-31e6-45dd-adae-3152d08694a4
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 4ec2a3a0-31e6-45dd-adae-3152d08694a4
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<Text/ab87eea8-3d85-4db4-44f8-c8809ac24f47>
+  PrefabRemaps:
+    []
+  Name: Text
+  Enabled: true
+  RenderOrder: 11
+  StretchMode: Stretch
+  VerticalAlignment: Top
+  HorizontalAlignment: Left
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Text: |-
+    # Face Text Controller:
+    In the Inspector Panel, add a new face text. Type the content in the text box, then configure its style, format and transform in the settings below. For best visual effects, it is recommended that your limit your text to 30 characters.
+    
+    ** Add main camera as the Target in the Face Center Reference
+  Editable: false
+  ShowEditingPreview: true
+  TouchHandler: !<reference> 00000000-0000-0000-0000-000000000000
+  SizeToFit: false
+  FontSize: 48
+  Font: !<reference> 00000000-0000-0000-0000-000000000000
+  LayoutRect:
+    left: -15.000000
+    bottom: -26.000000
+    right: 15.000000
+    top: 17.000000
+  OverflowVertical: Overflow
+  OverflowHorizontal: Wrap
+  Fill: !<TextFill>
+    Mode: Solid
+    Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+    Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    TileCount: 5.000000
+    TileZone: Rect
+    TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
+  Outline: !<OutlineSettings>
+    Enabled: false
+    Fill: !<TextFill>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      TileCount: 5.000000
+      TileZone: Rect
+      TextureStretch: FitWidth
+    Size: 0.250000
+  Dropshadow: !<DropshadowSettings>
+    Enabled: false
+    Fill: !<TextFill>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      TileCount: 5.000000
+      TileZone: Rect
+      TextureStretch: FitWidth
+    OffsetX: 0.250000
+    OffsetY: 0.250000
+  Background: !<BackgroundSettings>
+    Enabled: true
+    Fill: !<TextFill>
+      Mode: Solid
+      Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      TileCount: 5.000000
+      TileZone: Rect
+      TextureStretch: FitWidth
+    Margins:
+      left: 1.000000
+      bottom: 1.000000
+      right: 1.000000
+      top: 1.000000
+    CornerRadius: 1.000000
+  AdvancedLayout: !<TextAdvancedLayout>
+    ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+    LetterSpacing: 0.000000
+    LineSpacing: 1.000000
+    CapitalizationOverride: None
+  DepthTest: false
+  TwoSided: false
+- !<Text/ac04b2b4-194a-4c80-50a3-7a5753683ccd>
+  PrefabRemaps:
+    []
+  Name: Text
+  Enabled: true
+  RenderOrder: 10
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Text: |-
+    😀😃😄😁😆😅😂🤣🥲
+    🥹😊😇🙂🙃😉😌😍🥰
+    😘😗😙😚😋😛🤪🤨🧐🤓😎🥸🤩🥳🙂😏🙂‍😞😔😟😕🙁😣😖😫😩🥺😢😭😮‍💨😤😠😡🤬🤯😳🥵🥶😱😨😰😥😓🫣🤗🫡🤔🫢🤭🤫🤥😶😶‍🌫️😐😑😬🫨🫠🙄😦😧😮😲🥱😴🤤😪😵😵‍💫🫥🤐🥴🤢🤮🤧😷🤒🤕🤑🤠😈👿👺👻💀👽👾🤖🎃😺😸😹😻😼🙀😿😾
+    [SCROLL UP TO SEE MORE]
+  Editable: false
+  ShowEditingPreview: true
+  TouchHandler: !<reference> 00000000-0000-0000-0000-000000000000
+  SizeToFit: false
+  FontSize: 60
+  Font: !<reference> 00000000-0000-0000-0000-000000000000
+  LayoutRect:
+    left: -7.500000
+    bottom: -2.250000
+    right: 7.500000
+    top: 2.250000
+  OverflowVertical: Overflow
+  OverflowHorizontal: Wrap
+  Fill: !<TextFill>
+    Mode: Solid
+    Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    TileCount: 5.000000
+    TileZone: Rect
+    TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
+  Outline: !<OutlineSettings>
+    Enabled: false
+    Fill: !<TextFill>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      TileCount: 5.000000
+      TileZone: Rect
+      TextureStretch: FitWidth
+    Size: 0.250000
+  Dropshadow: !<DropshadowSettings>
+    Enabled: false
+    Fill: !<TextFill>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      TileCount: 5.000000
+      TileZone: Rect
+      TextureStretch: FitWidth
+    OffsetX: 0.250000
+    OffsetY: 0.250000
+  Background: !<BackgroundSettings>
+    Enabled: false
+    Fill: !<TextFill>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      TileCount: 5.000000
+      TileZone: Rect
+      TextureStretch: FitWidth
+    Margins:
+      left: 0.000000
+      bottom: 0.000000
+      right: 0.000000
+      top: 0.000000
+    CornerRadius: 0.000000
+  AdvancedLayout: !<TextAdvancedLayout>
+    ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+    LetterSpacing: 0.000000
+    LineSpacing: 1.000000
+    CapitalizationOverride: None
+  DepthTest: false
+  TwoSided: false
+- !<AssetImportMetadata/ad8aceb5-b1c4-e0ae-62d2-4a22d8f48cfc>
+  ImportedAssetIds:
+    Font: !<reference> a213d7a8-882b-464a-a742-42dd6a059d45
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> a213d7a8-882b-464a-a742-42dd6a059d45
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/b2c49288-9b92-d06f-3be3-dd406a3ac471>
+  ImportedAssetIds:
+    Font: !<reference> d7bc5784-6576-4b09-a7fe-dc40c5064543
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> d7bc5784-6576-4b09-a7fe-dc40c5064543
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/bb6690a5-84d3-8a54-044d-5edf5688ff0a>
+  ImportedAssetIds:
+    Font: !<reference> 2ebaf6b9-5de8-4117-b957-366eae5c0708
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 2ebaf6b9-5de8-4117-b957-366eae5c0708
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefabAssetData/be587980-5f1b-4188-836b-5865f902850a>
+  Prototype: !<ObjectOwner/dd096a32-ddf3-4f83-9c6e-3c3841b59efa>
+    PackagePath: ""
+    objects:
+      - !<own> ca319434-2979-4480-797f-59e71ce71a3f
+- !<AssetImportMetadata/c065f276-8c4b-47c1-dc80-dc47be79f566>
+  ImportedAssetIds:
+    Font: !<reference> 3cb58a6f-7d10-4b1d-92a1-eab3901a75b7
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> 3cb58a6f-7d10-4b1d-92a1-eab3901a75b7
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/ca319434-2979-4480-797f-59e71ce71a3f>
+  PrefabRemaps:
+    []
+  Name: Face Text Controller
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: -40.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 67dc47c5-3d18-4b2c-5a3e-daecb31f0339
+    - !<own> 7f09b7dd-b334-4bc4-7cb7-aff454675946
+    - !<own> 852ac6fd-d8fd-4bb0-79b1-d312c3738cab
+    - !<own> 47c9b79e-ebad-4fd7-7ed1-fe6a0e7a4008
+  Components:
+    []
+- !<AssetImportMetadata/d30ab84d-2add-e345-edaa-6965f7948038>
+  ImportedAssetIds:
+    Font: !<reference> fd8edc2b-9a00-47e8-a805-0e52bcc40544
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> fd8edc2b-9a00-47e8-a805-0e52bcc40544
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/daf275f6-d100-325e-dc95-6ed6a4704291>
+  ImportedAssetIds:
+    Font: !<reference> fd70fc92-84b0-4bcd-a431-49b4d76ce7fd
+  ImporterName: FontImporter
+  PrimaryAsset: !<reference> fd70fc92-84b0-4bcd-a431-49b4d76ce7fd
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/e25650d9-4a57-4969-4c4f-54cd068846a4>
+  PrefabRemaps:
+    []
+  Name: Face Center Reference
+  Enabled: false
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.000000, z: 1.289600}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 5.000000, y: 5.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1d0f1d73-8518-4af9-4f72-252ad4135cc5
+    - !<own> fa5cfed7-47bf-43cc-5315-4016dfaacb40
+- !<AssetImportMetadata/ea7e776f-7172-9fb6-a745-d02eea8270e1>
+  ImportedAssetIds:
+    Material: !<reference> d12fc3e4-85a1-474a-84f9-c1a0602236ba
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> d12fc3e4-85a1-474a-84f9-c1a0602236ba
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<LookAtComponent/fa5cfed7-47bf-43cc-5315-4016dfaacb40>
+  PrefabRemaps:
+    []
+  Name: Look At
+  Enabled: true
+  LookAtMode: LookAtDirection
+  AimVectors: ZAimYUp
+  WorldUpVector: ObjectY
+  Target: !<reference> 00000000-0000-0000-0000-000000000000
+  OffsetRotation: {x: 0.000000, y: 0.000000, z: 0.000000}

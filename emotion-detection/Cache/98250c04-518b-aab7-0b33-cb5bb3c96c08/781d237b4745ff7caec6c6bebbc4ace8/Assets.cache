@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    2c57fb0e-8dd2-4bf6-b438-abbde84a2a7e: 98250c04-518b-aab7-0b33-cb5bb3c96c08/781d237b4745ff7caec6c6bebbc4ace8/Data/Sigmar-Regular.ttf
+  Assets:
+    - !<Font/2c57fb0e-8dd2-4bf6-b438-abbde84a2a7e>
+      PackagePath: ""
+  SourceHash: 781d237b4745ff7caec6c6bebbc4ace8
+  FileHash: 4444effabfc4d6d4b964362666201096
+  NativePackageItems:
+    []
